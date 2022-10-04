@@ -2,6 +2,11 @@ Aryan Agarwal
 UID: 105342663
 Lab 1 Report
 
-I enrolled into this class on Thursday and was not able to attend Lab 1. But, I visitied the TA Pengrui for his OH and he helped me out a lot. 
+I enrolled into this class on Thursday and was not able to attend Lab 1. But, I visited the TA Pengrui for his OH and he helped me out a lot. 
 I was able to do all the installations very easily and was able to look up things whenever I got stuck anywhere.
 The Image Processing stuff was a little complicated but the TA and my teammate helped me out and I was able to get it.
+
+1. I only tracked the blue color and both of them gave me decent results. 
+2. If the color is more dominant and bright, it is easier to track.
+3. Phone brightness helps a lot. 
+4. More the brightness, easier to identify the color. It was more evident with the phone brightness.
