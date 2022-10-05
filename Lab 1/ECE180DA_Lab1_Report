@@ -6,7 +6,23 @@ I enrolled into this class on Thursday and was not able to attend Lab 1. But, I 
 I was able to do all the installations very easily and was able to look up things whenever I got stuck anywhere.
 The Image Processing stuff was a little complicated but the TA and my teammate helped me out and I was able to get it.
 
-1. I only tracked the blue color and both of them gave me decent results. 
+Task 1
+My repo should be visible at:
+www.github.com/aryan-agarwal/180DA-WarmUp/.
+All the requirements for task 1 have been satisfied.
+
+Task 2
+A sample file has been created and some random text has been added to it. It is visible in my GitHub repo under Lab 1.
+
+Task 3
+The code mentioned was written and run in the virtual environment. The expected result was achieved.
+The code can be found under Lab 1 in my repo.
+
+Task 4
+1. I used a phone screen with a blue screen displayed. I also used a blue water bottle with a green background. The result with the bounding box can be seen in my repo. I only tracked the blue color and both of them gave me decent results. 
+
 2. If the color is more dominant and bright, it is easier to track.
-3. Phone brightness helps a lot. 
-4. More the brightness, easier to identify the color. It was more evident with the phone brightness.
+
+3. I used a blue screen and the phone brightness helps a lot. When brightness is low, the color cannot be recognised at all. Higher the brightness, easier to track.
+
+4. More the brightness, easier to identify the color. It was more evident with the phone brightness. Initially I had problems with the code when I changed from BGR to RGB. When I commented that out, it worked perfectly fine.
